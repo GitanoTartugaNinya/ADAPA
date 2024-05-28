@@ -1,2 +1,0 @@
-# ADAPA
-ADAPA-WEB
